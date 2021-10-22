@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizUdemy Course</string>
+    <string name="q1">Is our prime minister married?</string>
+    <string name="q2">Can we hack google?</string>
+    <string name="q3">Is Alia bhatt alien?</string>
+    <string name="q4">Are Abhishek Bachhan and Ashwariya Rai brother and sister?</string>
+    <string name="q5">Are you made?</string>
+    <string name="q6">Will our next president be Katrina Kaif?</string>
+    <string name="q7">Was Neha Kakkar the first women who go on moon?</string>
+    <string name="q8">Is PUBG our national game?</string>
+</resources>
